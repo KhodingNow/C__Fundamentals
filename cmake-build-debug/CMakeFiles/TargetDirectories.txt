@@ -1,0 +1,3 @@
+C:/Users/Thembaletu/CLionProjects/C++Fundamentals/cmake-build-debug/CMakeFiles/C__Fundamentals.dir
+C:/Users/Thembaletu/CLionProjects/C++Fundamentals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thembaletu/CLionProjects/C++Fundamentals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
